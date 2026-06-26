@@ -1,0 +1,10 @@
+D 'gumbelfit': Fitting a Gumbel distribution by maximum likelihood Use gumbelfit With STATA 19
+D
+F gumbelfit.ado
+F gumbelfit.sthlp
+F gumbelfit_lf.ado
+F gevfit_lf2.ado
+F pgumbel.ado
+F pgumbel.hlp
+F qgumbel.ado
+F qgumbel.hlp
