@@ -1,6 +1,8 @@
 # gumbelfit
 Fitting a Gumbel distribution by maximum likelihood Use gumbelfit With STATA 19
 
+https://www.youtube.com/watch?v=ne1HYFvFJp8
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
